@@ -160,9 +160,18 @@ fun= function(arg1,arg2 )
 ```
 
 ## Resources
-
+---
 https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
+---
+---
 https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
+---
+---
 https://nicercode.github.io/guides/reports/
+---
+---
 http://kbroman.org/knitr_knutshell/pages/markdown.html
+---
+---
 https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf 
+---
