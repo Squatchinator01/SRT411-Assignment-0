@@ -1,6 +1,6 @@
 ---
 title: "SRT411A0"
-output: word_document
+output: html_document
 ---
 ---
 GitHub Username: Squatchinator01
@@ -144,6 +144,19 @@ fun= function(arg1,arg2 )
     
   }
 } 
+```
+
+## Task 15
+
+```{r}
+fun= function(arg1,arg2 )
+{
+  vector[i]=arg1[i];
+  for(i in length(vector))
+  {
+    
+  }
+}
 ```
 
 ## Resources
